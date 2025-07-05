@@ -1,3 +1,9 @@
+<div align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px">
+  </picture>
+</div>
+
 <h1 align="center">Hi 👋, I'm Charitha Semasinghe</h1>
 <h3 align="center">Computer Science & Software Engineering Student</h3>
 
